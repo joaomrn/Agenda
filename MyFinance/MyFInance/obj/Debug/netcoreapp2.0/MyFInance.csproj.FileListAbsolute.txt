@@ -1,0 +1,11 @@
+C:\Users\João Vitor\source\agenda\MyFInance\MyFInance\bin\Debug\netcoreapp2.0\MyFInance.deps.json
+C:\Users\João Vitor\source\agenda\MyFInance\MyFInance\bin\Debug\netcoreapp2.0\MyFInance.runtimeconfig.json
+C:\Users\João Vitor\source\agenda\MyFInance\MyFInance\bin\Debug\netcoreapp2.0\MyFInance.runtimeconfig.dev.json
+C:\Users\João Vitor\source\agenda\MyFInance\MyFInance\bin\Debug\netcoreapp2.0\MyFInance.dll
+C:\Users\João Vitor\source\agenda\MyFInance\MyFInance\bin\Debug\netcoreapp2.0\MyFInance.pdb
+C:\Users\João Vitor\source\agenda\MyFInance\MyFInance\obj\Debug\netcoreapp2.0\MyFInance.csprojAssemblyReference.cache
+C:\Users\João Vitor\source\agenda\MyFInance\MyFInance\obj\Debug\netcoreapp2.0\MyFInance.csproj.CoreCompileInputs.cache
+C:\Users\João Vitor\source\agenda\MyFInance\MyFInance\obj\Debug\netcoreapp2.0\MyFInance.AssemblyInfoInputs.cache
+C:\Users\João Vitor\source\agenda\MyFInance\MyFInance\obj\Debug\netcoreapp2.0\MyFInance.AssemblyInfo.cs
+C:\Users\João Vitor\source\agenda\MyFInance\MyFInance\obj\Debug\netcoreapp2.0\MyFInance.dll
+C:\Users\João Vitor\source\agenda\MyFInance\MyFInance\obj\Debug\netcoreapp2.0\MyFInance.pdb

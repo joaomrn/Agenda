@@ -1,0 +1,17 @@
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.deps.json
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.runtimeconfig.json
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.runtimeconfig.dev.json
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.dll
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.pdb
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\bin\Debug\netcoreapp2.0\MyFInance.dll
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\bin\Debug\netcoreapp2.0\MyFInance.pdb
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.csprojAssemblyReference.cache
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.AssemblyInfoInputs.cache
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.AssemblyInfo.cs
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.csproj.CopyComplete
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.dll
+C:\Users\João Vitor\source\agenda\MyFInance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.pdb
